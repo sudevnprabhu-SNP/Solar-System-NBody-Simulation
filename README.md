@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/solar-system-nbody-banner.png" alt="Solar System N-Body Simulation banner" width="100%">
+</p>
+
 # Solar System N-Body Simulation
 
 A Python-based educational simulation of the Sun and eight planets using Newtonian gravitational dynamics. The program converts approximate orbital elements into Cartesian initial states, integrates the coupled equations of motion, evaluates conservation diagnostics, and visualizes the resulting trajectories in 2D and 3D.
