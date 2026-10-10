@@ -56,7 +56,7 @@ The required Python packages are listed in [`requirements.txt`](requirements.txt
 After creating the GitHub repository, replace the URL below with its actual clone URL:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Solar-System-NBody-Simulation.git
+git clone https://github.com/sudevnprabhu-SNP/Solar-System-NBody-Simulation.git
 cd Solar-System-NBody-Simulation
 ```
 
